@@ -252,3 +252,39 @@ sm.qqplot(dfhn['HNS_qt'],line='45')
 plt.show()
 
 # OUPUT
+
+## Reading the data set:
+![s1](https://user-images.githubusercontent.com/94980741/169945732-a3c5e53c-af67-433f-a832-53c594d419a6.png)
+![s2](https://user-images.githubusercontent.com/94980741/169945793-5fe88a2c-34c7-493c-95cc-189fdd136b55.png)
+
+
+## FUNCTION TRANSFORMATION:
+![s3](https://user-images.githubusercontent.com/94980741/169945811-b6ce7e69-715e-4260-a111-574afe30c3dc.png)
+ ![s4](https://user-images.githubusercontent.com/94980741/169945862-3edd294e-3a4d-4ce4-826d-0baa887ce665.png)
+![s5](https://user-images.githubusercontent.com/94980741/169945876-d8c4e20e-7c10-45c0-85e7-62cf90bd3e36.png)
+![s6](https://user-images.githubusercontent.com/94980741/169945908-ea310faf-7bb6-44ed-95e5-7a2e14d286da.png)
+
+
+## POWER TRANSFORMATION:
+![s7](https://user-images.githubusercontent.com/94980741/169945976-98bfb49c-2eb8-4b01-9276-1188cbd9236d.png)
+![s8](https://user-images.githubusercontent.com/94980741/169945989-03ca665f-9901-4383-b2e5-854ecddadbe3.png)
+![s9](https://user-images.githubusercontent.com/94980741/169946000-427861de-ff8c-4ac7-95ed-5e886f031087.png)
+![s10](https://user-images.githubusercontent.com/94980741/169946021-560ab6e0-1219-4cdd-9474-191653a26b69.png)
+
+## QUANTILE TRANSFORAMATION:
+![s12](https://user-images.githubusercontent.com/94980741/169946056-2ba19c74-9377-4f6a-9f3e-abefb44b39d0.png)
+![s13](https://user-images.githubusercontent.com/94980741/169946065-b4c84953-73a0-46bf-8bcf-2e98c636c6e4.png)
+![s14](https://user-images.githubusercontent.com/94980741/169946073-a6c4d48e-cf08-48e1-b571-3d026f802fe3.png)
+![s15](https://user-images.githubusercontent.com/94980741/169946087-1794afbc-77bd-4ee7-a5b6-ee7cab392dc0.png)
+![s17](https://user-images.githubusercontent.com/94980741/169946103-a7bf2c78-6100-4a0c-a610-fa60fb77bea0.png)
+![s18](https://user-images.githubusercontent.com/94980741/169946130-65c274f8-427a-41b8-946a-6a29d9d21076.png)
+![s19](https://user-images.githubusercontent.com/94980741/169946140-c33f75c1-a344-42c5-abb3-d9c019081904.png)
+
+## Final Result:
+![s20](https://user-images.githubusercontent.com/94980741/169946158-7c7f50dd-a0e5-4f39-8b90-c32299a54dba.png)
+![s21](https://user-images.githubusercontent.com/94980741/169946166-7afb3420-38fb-4e6d-8c87-c3fdf070877f.png)
+
+
+
+# Result:
+Hence, Feature transformation techniques is been performed on given dataset and saved into a file successfully.
